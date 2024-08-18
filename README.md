@@ -48,7 +48,7 @@ This project is a cross-platform mobile application built with React Native that
 5. Create a new Pull Request.
 
 ## Author
-- Name: [Nabin kumar sah](https://nabinkumarsah.vercel.app/)
+- Name: [Nabin kumar sah]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
