@@ -125,3 +125,6 @@ const styles = StyleSheet.create({
         color: 'white',
     },
 });
+
+
+// writing the comment for learning the code
