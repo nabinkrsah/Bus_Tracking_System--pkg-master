@@ -1,7 +1,7 @@
 # AWS Cloud Based Real-Time Bus Tracking System
 
 ## Overview
-This project is a cross-platform mobile application built with React Native that enables real-time tracking and navigation of vehicles. It utilizes AWS services such as EC2, Amplify, and Cognito for the backend infrastructure.
+This project is a cross-platform mobile application built with React Native that enables real-time tracking and navigation of vehicles. It utilizes AWS services such as EC2.
 
 ### Features
 - Real-time vehicle navigation using mobile GPS
@@ -11,8 +11,6 @@ This project is a cross-platform mobile application built with React Native that
 ## Setup Instructions
 1. **Backend Setup:**
    - Set up EC2 instance for hosting backend services.
-   - Configure AWS Amplify for managing backend resources.
-   - Use AWS Cognito for user authentication.
 
 2. **Frontend Setup:**
    - Clone this repository.
